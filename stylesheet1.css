@@ -1,0 +1,40 @@
+body{
+	background-color:#FFE4C4;
+}
+
+h3{
+	font-family: Verdana;
+	text-align: center;
+	padding-top:25px;
+	padding-bottom:25px;
+	color:#B22222;
+	font-size:25px
+	}
+	
+table{
+	border: 2px solid black;
+	border-collapse: collapse; 
+	background-color:#FFC;
+	margin: 5px 10px 2px 250px;
+	width:60%
+	
+	
+	
+}
+
+th{
+	border-bottom:2px solid #000;
+	font-family:verdana;
+	font-size:1em;
+	color:#0000CD;
+	height:50px;
+	background-color:#E6E6FA;
+}
+
+td{
+	border-bottom:2px solid black;	
+	height:75px;
+	width:100px:
+}
+
+

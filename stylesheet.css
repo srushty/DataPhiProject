@@ -1,0 +1,41 @@
+body{
+	background-color:#FFE4C4;
+}
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1E90FF;
+	padding-left:950px;
+	
+}
+
+
+.navbar li {float: left;}
+
+/* Style the links inside the list items */
+.navbar li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+.navbar li a:hover {background-color: #555;}
+
+h3{
+	font-family: Verdana;
+	text-align: center;
+	padding-top:25px;
+	padding-bottom:25px;
+	color:#B22222;
+	font-size:25px
+}
+
+span{
+	color:red;
+}
